@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hi.js",
+  "scripts": {
+    "test": "node test.js",
+    "run": "node hi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masstamilan555/git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/masstamilan555/git/issues"
+  },
+  "homepage": "https://github.com/masstamilan555/git#readme"
+}
